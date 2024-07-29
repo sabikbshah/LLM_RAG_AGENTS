@@ -1,5 +1,6 @@
 #LLM_RAG-Agent
 the project has 4 different independent scripts.
+Note: the stocklive2.csv is already present. Database file is popular chinook.db
 
 install both requirements.txt pip install -r requirement.txt requirements2.txt
 
