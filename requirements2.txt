@@ -1,0 +1,17 @@
+dotenv
+langchain
+langchain-huggingface
+huggingface_hub
+sentence-transformers
+langchain-community
+
+torch
+faiss-gpu
+
+# finalcsv.py #!pip install pandas langchain langchain_experimental langchain-groq langchain-openai
+langchain
+langchain_experimental
+langchain-openai
+langchain-groq
+tabulate
+

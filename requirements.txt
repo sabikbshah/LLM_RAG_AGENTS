@@ -1,0 +1,28 @@
+
+#rabbitmetrics
+dotenv
+langchain
+pymysql
+mysql
+sqlalchemy
+sqlalchemy-mysql
+python-dotenv
+
+# open-ai
+langchain-openai
+langchain-experimental
+
+# for inference api for huggingface
+#langchain huggingface_hub transformers
+#-U langchain-huggingface
+
+# anthropic claude ai
+#anthropic
+#langchain-anthropic
+
+#chromadb
+#pypdf
+streamlit
+
+
+
